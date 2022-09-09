@@ -18,6 +18,5 @@
 
 <a href="https://www.linkedin.com/in/juan-david-reyes-bedoya-49b0a5225/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" /></a>&nbsp;
 
- ![https://www.instagram.com/dev_juan22/](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 
