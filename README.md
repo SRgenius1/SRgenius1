@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=150&section=header&text=🤗%20Hi%20There&fontSize=45&animation=fadeIn&fontAlign=20&fontAlignY=40)
-##😎 My name is Juan david 
+## 😎 My name is Juan david 
 ### 💚 I'm a Frontend Web Developer
 
 ## Some of the technologies I use
